@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Gilazo.Core</id>
+    <version>0.0.1</version>
+    <authors>gilazo</authors>
+    <owners>gilazo</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+      <group targetFramework=".NETStandard2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/workspaces/Gilazo.Core/src/Gilazo.Core/bin/Release/netcoreapp3.1/Gilazo.Core.dll" target="lib/netcoreapp3.1/Gilazo.Core.dll" />
+    <file src="/workspaces/Gilazo.Core/src/Gilazo.Core/bin/Release/netstandard2.1/Gilazo.Core.dll" target="lib/netstandard2.1/Gilazo.Core.dll" />
+  </files>
+</package>

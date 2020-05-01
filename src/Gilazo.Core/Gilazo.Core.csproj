@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netcoreapp3.1;netstandard2.1</TargetFrameworks>
+    <Nullable>enable</Nullable>
+    <PackageId>Gilazo.Core</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>gilazo</Authors>
+    <Company>gilazo</Company>
+  </PropertyGroup>
+
+</Project>

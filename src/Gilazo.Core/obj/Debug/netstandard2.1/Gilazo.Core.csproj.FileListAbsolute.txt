@@ -1,0 +1,9 @@
+/workspaces/Gilazo.Core/src/Gilazo.Core/obj/Debug/netstandard2.1/Gilazo.Core.csprojAssemblyReference.cache
+/workspaces/Gilazo.Core/src/Gilazo.Core/obj/Debug/netstandard2.1/Gilazo.Core.csproj.CoreCompileInputs.cache
+/workspaces/Gilazo.Core/src/Gilazo.Core/obj/Debug/netstandard2.1/Gilazo.Core.AssemblyInfoInputs.cache
+/workspaces/Gilazo.Core/src/Gilazo.Core/obj/Debug/netstandard2.1/Gilazo.Core.AssemblyInfo.cs
+/workspaces/Gilazo.Core/src/Gilazo.Core/bin/Debug/netstandard2.1/Gilazo.Core.deps.json
+/workspaces/Gilazo.Core/src/Gilazo.Core/bin/Debug/netstandard2.1/Gilazo.Core.dll
+/workspaces/Gilazo.Core/src/Gilazo.Core/bin/Debug/netstandard2.1/Gilazo.Core.pdb
+/workspaces/Gilazo.Core/src/Gilazo.Core/obj/Debug/netstandard2.1/Gilazo.Core.dll
+/workspaces/Gilazo.Core/src/Gilazo.Core/obj/Debug/netstandard2.1/Gilazo.Core.pdb

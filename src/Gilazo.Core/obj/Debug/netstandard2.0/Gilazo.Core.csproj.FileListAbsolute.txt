@@ -1,0 +1,4 @@
+/workspaces/Gilazo.Core/src/Gilazo.Core/obj/Debug/netstandard2.0/Gilazo.Core.csprojAssemblyReference.cache
+/workspaces/Gilazo.Core/src/Gilazo.Core/obj/Debug/netstandard2.0/Gilazo.Core.csproj.CoreCompileInputs.cache
+/workspaces/Gilazo.Core/src/Gilazo.Core/obj/Debug/netstandard2.0/Gilazo.Core.AssemblyInfoInputs.cache
+/workspaces/Gilazo.Core/src/Gilazo.Core/obj/Debug/netstandard2.0/Gilazo.Core.AssemblyInfo.cs

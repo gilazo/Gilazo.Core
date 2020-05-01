@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "/workspaces/Gilazo.Core/src/Gilazo.Core/Gilazo.Core.csproj": {}
+  },
+  "projects": {
+    "/workspaces/Gilazo.Core/src/Gilazo.Core/Gilazo.Core.csproj": {
+      "version": "0.0.1",
+      "restore": {
+        "projectUniqueName": "/workspaces/Gilazo.Core/src/Gilazo.Core/Gilazo.Core.csproj",
+        "projectName": "Gilazo.Core",
+        "projectPath": "/workspaces/Gilazo.Core/src/Gilazo.Core/Gilazo.Core.csproj",
+        "packagesPath": "/home/vscode/.nuget/packages/",
+        "outputPath": "/workspaces/Gilazo.Core/src/Gilazo.Core/obj/",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "/home/vscode/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1",
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          },
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        },
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

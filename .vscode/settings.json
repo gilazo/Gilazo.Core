@@ -1,0 +1,35 @@
+{
+  "[csharp]": {
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4
+  },
+  "[json]": {
+    "editor.tabSize": 2
+  },
+  "[jsonc]": {
+    "editor.tabSize": 2
+  },
+  "[xml]": {
+    "editor.tabSize": 2
+  },
+  "editor.detectIndentation": false,
+  "editor.insertSpaces": false,
+  "editor.rulers": [
+    150
+  ],
+  "dotnet-test-explorer.autoExpandTree": true,
+  "editor.tabSize": 2,
+  "omnisharp.enableEditorConfigSupport": true,
+  "omnisharp.enableRoslynAnalyzers": true,
+  "omnisharp.useEditorFormattingSettings": false,
+  "remote.extensionKind": {
+    "jchannon.csharpextensions": "workspace"
+  },
+	"telemetry.enableTelemetry": false,
+	"azureFunctions.deploySubpath": "Carvana.AncillaryProducts.Functions/bin/Release/netcoreapp2.2/publish",
+	"azureFunctions.projectLanguage": "C#",
+	"azureFunctions.projectRuntime": "~2",
+	"debug.internalConsoleOptions": "neverOpen",
+	"azureFunctions.preDeployTask": "publish",
+	"vssolution.showMode": "explorer",
+}
